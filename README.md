@@ -3,3 +3,7 @@
 ### Templates
 
 - https://startbootstrap.com/theme/freelancer
+
+### Guide to create Github Page
+
+- https://docs.github.com/en/pages
